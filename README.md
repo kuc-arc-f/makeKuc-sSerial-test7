@@ -8,6 +8,7 @@
 
 ## ATmega328P - esp8266, UART test
 LM60BIZ(Analog) sensor+ OLED display, HTTP value Send
+DeepSleep version
 
 ### /makeKuc-sSerial-at3 :
  Atmega328p ,LM60BIZ read +OLED  display ,send String
